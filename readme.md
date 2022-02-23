@@ -1,5 +1,7 @@
 # Change Colour REST API
 
+![demo gif](./images/example.gif)
+
 This is a simple example to demonstrate the use of REST APIs. The program will fetch a colour from the API and display it if there is no errors or show as gray if the request is unsuccessful.
 
 ## How it works
